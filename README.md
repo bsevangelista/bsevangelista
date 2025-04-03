@@ -4,7 +4,7 @@
 
 - <b>Web Application</b>
   - <b>[HarvestHubPH: E-Commerce Platform (React, Node.js, MongoDB)](https://github.com/CMSC100-1S2324/group1-project)</b>
-  - <b>[ICSRE: Room Reservation System (Fastify, MongoDB)](https://github.com/CMSC-128-E5L-2023/ICSRE)</b>
+  - <b>[ICS-SPACEs: Room Reservation System (Fastify, MongoDB)](https://github.com/CMSC-128-E5L-2023/ICSRE)</b>
 - <b>Mobile Application (Flutter)</b>
   - <b>[ELBIdonate: Donation Management App (Firebase)](https://github.com/bsevangelista/CMSC23-donation-system)</b>
 - <b>Python</b>
