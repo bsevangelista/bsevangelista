@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Alain! <br/><a href="https://github.com/bsevangelista">Programmer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Web Application (React, Node.js, MongoDB</b>
+  - <b>[HarvestHubPH: E-Commerce Platform](https://github.com/CMSC100-1S2324/group1-project)</b>
+- <b>Mobile Application (Flutter)</b>
+  - <b>[ELBIdonate: Donation Management App (Firebase)](https://github.com/bsevangelista/CMSC23-donation-system)</b>
+- <b>Python</b>
+  - <b>[LOLCODE Interpreter & IDE (Python, GUI, Compiler, Debugger)](https://github.com/bsevangelista/cmsc124-project)</b>
+  - <b>[Terminal Based Food Review App - (MariaDB)](https://github.com/bsevangelista/cmsc124-project)</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in
 
 <!--
 **bsevangelista/bsevangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
