@@ -9,7 +9,7 @@
   - <b>[ELBIdonate: Donation Management App (Firebase)](https://github.com/bsevangelista/CMSC23-donation-system)</b>
 - <b>Python</b>
   - <b>[LOLCODE Interpreter & IDE (Python, GUI, Compiler, Debugger)](https://github.com/bsevangelista/cmsc124-project)</b>
-  - <b>[Terminal Based Food Review App - (MariaDB)](https://github.com/bsevangelista/cmsc124-project)</b>
+  - <b>[Terminal Based Food Review App - (MariaDB)](https://github.com/bsevangelista/CMSC127-MariaDB-Implementation)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
