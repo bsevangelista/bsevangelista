@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alain! <br/><a href="https://github.com/bsevangelista">Programmer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Web Application</b>
   - <b>[HarvestHubPH: E-Commerce Platform (React, Node.js, MongoDB)](https://github.com/CMSC100-1S2324/group1-project)</b>
